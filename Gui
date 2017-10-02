@@ -1,0 +1,6 @@
+import javafx.application.*;
+import javafx.scene.*;	
+import javafx.scene.control.*;
+import javafx.stage.*;
+import javafx.scene.layout.*;
+int x =wbeuf;
